@@ -1,19 +1,19 @@
 --- 
-    age: 19
-    education: "BSUIR faculty of computer-aided design"
-    english: B1
-    full_name: "Filipenko Maksim"
-    goal: "I want to develop as a ruby developer"
-    have_a_job: "yes"
-    hours_per_day: 10
-    laptop: "no"
-    phone_number: 375291433931
-    programming_languages: 
-      - Ruby
-      - HTML/CSS
-      - JS
-      - C++
-      -SQL
+age: 19
+education: "BSUIR faculty of computer-aided design 2017-2021"
+english: B1
+full_name: "Filipenko Maksim"
+goal: "I want to develop as a ruby developer"
+have_a_job: "no"
+hours_per_day: 10
+laptop: "yes, linux"
+phone_number: 375291433931
+programming_languages: 
+  - Ruby
+  - HTML/CSS
+  - JS
+  - C++
+  - SQL
 
 
    
